@@ -1,0 +1,1 @@
+This project add only backend stripe as test mode for check the payment integration . 
